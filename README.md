@@ -28,6 +28,9 @@
 ![Gabriel Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsaugusto&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
+## Portfólio
+[CRUD_LOCADORAVEICULOS](https://github.com/gabrielsaugusto/CRUD_LOCADORA) -Sistema de gerenciamento de aluguel de veículos baseado em Java e MySQL.
+
 
 <!-- GIF -->
 <p align="left">
@@ -41,6 +44,7 @@
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="JAVA" height="30" width="40" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white"/>
   </div>
   
   <!-- Skills: Tools & Frameworks -->
