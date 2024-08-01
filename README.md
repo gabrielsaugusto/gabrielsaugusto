@@ -49,6 +49,7 @@
   <div style="flex-basis: 48%;">
     <h3>Ferramentas e estruturas</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="VScode" height="30" width="50" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   </div>
   
   <!-- Skills: Libraries -->
